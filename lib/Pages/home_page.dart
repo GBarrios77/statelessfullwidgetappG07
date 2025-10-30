@@ -60,4 +60,4 @@ class MiWidgetEstatico extends StatelessWidget {
       ),
     );
   }
-} 
+}
